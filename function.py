@@ -108,7 +108,6 @@ def eliminate(values):
 #trial = eliminate(deepcopy(grid))
 #for i in trial:
 #    trial[i] = ''.join(sorted(trial[i]))
-sdfs
 
 def main():
 
